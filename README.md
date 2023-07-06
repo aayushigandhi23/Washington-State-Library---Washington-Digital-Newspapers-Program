@@ -5,4 +5,4 @@ The Washington Digital Newspaper (WDN) program of the Washington State Library h
 
 Link to Tableau Public - https://public.tableau.com/app/profile/aayushi1554/viz/WashingtonDigitalNewspapers_16874682570060/WAStateOverview
 
-Link to Wesbite - https://aayushi70.wixsite.com/wsl-wdn
+Link to Website - https://aayushi70.wixsite.com/wsl-wdn
